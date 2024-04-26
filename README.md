@@ -8,6 +8,8 @@ Mini mania is a first-person puzzle game in which the player must solve puzzles 
 
 The player takes the role of a young boy, whose grandfather has shrunk him down to use as a ‘lab rat’ in his size changing experiments. With the crazy genius grandpa constantly watching, the boy must complete all the puzzles in front of him if he is to ever to return to full size – and normal life! Each level the player is presented with new obstacles that they must overcome using their puzzle solving skills, and their trusty shrink gun.
 
+**Trailer**
+
 **Media**
 
 ![MiniMania PS5 Boxart png](https://github.com/CHarrhy/MiniManiaPressKit/assets/92591385/70c944f5-973f-4179-8c2a-cf2517c50f42)
