@@ -37,6 +37,8 @@ The player takes the role of a young boy, whose grandfather has shrunk him down 
 
 ![New Pixel Playground Logo](https://github.com/CHarrhy/MiniManiaPressKit/assets/92159221/f6b6af8e-6b59-4cd6-9041-a76c9fdebd80)
 
+![Game lgoo](https://github.com/CHarrhy/MiniManiaPressKit/assets/92591385/093f5ceb-059f-44dd-b026-38bdc3f6036c)
+
 **Factsheet**
 
 Developer: Pixel Playground Studios.
