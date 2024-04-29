@@ -10,6 +10,8 @@ The player takes the role of a young boy, whose grandfather has shrunk him down 
 
 **Trailer**
 
+https://www.youtube.com/watch?v=qKthv3JYcqE
+
 **Media**
 
 ![MiniMania PS5 Boxart png](https://github.com/CHarrhy/MiniManiaPressKit/assets/92591385/70c944f5-973f-4179-8c2a-cf2517c50f42)
