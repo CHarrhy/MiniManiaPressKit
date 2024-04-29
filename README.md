@@ -16,6 +16,8 @@ The player takes the role of a young boy, whose grandfather has shrunk him down 
 
 ![MiniMania XBOX Boxart png](https://github.com/CHarrhy/MiniManiaPressKit/assets/92591385/3aeccb48-2492-42b2-9f5a-787eb1ef74e9)
 
+![Box Art Redone](https://github.com/CHarrhy/MiniManiaPressKit/assets/92591385/f9fc1357-7f30-40aa-8480-55c5991c76af)
+
 <img width="439" alt="Press kit 1" src="https://github.com/CHarrhy/MiniManiaPressKit/assets/92591385/b9542c2d-2fc2-49be-89e4-84b5162677bf">
 
 <img width="577" alt="Press kit 2" src="https://github.com/CHarrhy/MiniManiaPressKit/assets/92591385/aec790fb-5df2-4b13-8e0e-bbc9b70c062d">
