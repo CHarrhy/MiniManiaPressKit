@@ -47,7 +47,7 @@ Age Rating: PEGI 12
 
 Planned Platforms: Steam
 
-Itch.io Page:
+Itch.io Page: https://pixel-playground-studios.itch.io/mini-mania
 
 
 
