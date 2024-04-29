@@ -53,5 +53,7 @@ Planned Platforms: Steam
 
 Itch.io Page: https://pixel-playground-studios.itch.io/mini-mania
 
+Youtube Channel: https://www.youtube.com/channel/UCS7qD3d8anW7s16Sd5psRxg
+
 
 
